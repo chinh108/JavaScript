@@ -1,0 +1,30 @@
+body {
+	padding: 2px;
+	border: 1px solid black;
+	height: 120%;
+	width: 100%;
+}
+
+.page catalog-page {
+	border: 1px solid black;
+	height: 100%;
+	width: 100%;
+}
+
+.container-fluid {
+	border: 1px solid black;
+	margin-top: 20px;
+	margin-bottom: 25px;
+	padding: 1px;
+	width: 950px;
+}
+
+.row #laptop #dientu{
+	padding: 1px;
+	width: 800px;
+}
+
+.content {
+	padding: 1px;
+	width: 1000px;
+}
